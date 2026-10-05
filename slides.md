@@ -82,6 +82,52 @@ __Ellison Medical Institute__
 
 ---
 
+### TODO Applications
+
+- computer vision
+    - digital pathology
+    - frontier models
+
+- drug discovery
+    - alpha fold
+    - evo genetic models
+    - generative AI
+
+- software development
+    - agents / harnesses
+
+- science
+    - AI-directed experiments
+
+- mathematics
+    - Millenium problems
+    - Navier-Stokes
+    - Lean formalization
+
+---
+
+### TODO Background / Theory
+
+- neural networks
+- classification
+- gradient descent
+- vector embeddings
+
+### TODO Education / Curriculum
+
+math
+    - linear algebra
+
+cs
+    - testing / validation
+
+science
+    - validation
+
+
+
+---
+
 ### Neural Networks
 
 .split-60[
