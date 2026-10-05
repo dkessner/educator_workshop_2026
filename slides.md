@@ -1,7 +1,10 @@
 
 .center[
-## View from the Frontier:  AI Use in Industry and Academia
+## View from the Frontier:  
+### AI Use in Industry and Academia
 ]
+
+<br/>
 
 .center[
 Marlborough School Educator Workshops  
@@ -23,48 +26,58 @@ _Marlborough School, Los Angeles_
 
 ---
 
+<br/> <br/> <br/>
+
+.center[
+### How are scientific researchers using AI in their work?
+<br/>
+### How does this affect STEM education?
+]
+
+
+---
+
 ### Who Am I?
 
-.split-50[
+.split-40[
 .column[
 .center[
-<img src="pix/DarrenKessner_25.jpg" width="50%"/>
-<img src="pix/marlborough_school_cover.jpeg" width="70%"/>
+<img src="pix/DarrenKessner_25.jpg" width="50%"/>  
+<br/><br/>
+<img src="pix/marlborough_school_cover.jpeg" width="70%"/>  
+<br/><br/>
 <img src="pix/ei_building.jpg" width="70%"/>
 ]
 ]
 
 .column[
-]
 .center[
-__Dr. Kessner__
+__Dr. Darren Kessner__
 ]
 
 - BS, MA in Mathematics
 
 - PhD in Bioinformatics
 
-- software developer for over 25 years
+- Software developer for &gt;25 years  
 
-
+<br/>
 .center[
 __Marlborough School__
 ]
 
-- Program Head of Computer Science and Software Innovation
+- Program Head of Computer Science and Software Innovation (12 years)
 
-- 11th year
-
-- AP Computer Science and Honors Computer Science Projects
-
+<br/>
 .center[
-__Ellison Institute of Technology__  
+__Ellison Medical Institute__  
 ]
 
-- Senior Software Engineer in AI and Advanced Molecular Medicine group
+- Senior Software Engineer  
+  AI and Advanced Molecular Medicine 
 
 ]
-
+]
 
 
 ---
