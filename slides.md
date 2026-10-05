@@ -1,21 +1,25 @@
 
 .center[
-<br/> <br/> <br/> <br/>
-
-## AI Advances in Science
-
-<br/> <br/> <br/> <br/>
-
-Dr. Darren Kessner  
-Marlborough School   
-<br/>  
-Educator Workshops  
-October 9, 2026
-
-<br/> <br/>
-
-[dkessner.github.io/educator_workshop_2026](http://dkessner.github.io/educator_workshop_2026)  
+## View from the Frontier:  AI Use in Industry and Academia
 ]
+
+.center[
+Marlborough School Educator Workshops  
+October 9, 2026
+]
+
+<br/>
+
+.center[
+<img src="pix/qr_dkessner.png" width="25%"/>
+]
+
+.center[
+Darren Kessner, PhD  
+_Program Head of Computer Science and Software Innovation_    
+_Marlborough School, Los Angeles_  
+]
+
 
 ---
 
