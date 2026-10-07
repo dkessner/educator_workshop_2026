@@ -122,6 +122,12 @@ __Ellison Medical Institute__
 <br/>
 
 
+<small>
+[Image credit](https://newsnetwork.mayoclinic.org/discussion/mayo-clinic-ai-detects-pancreatic-cancer-up-to-3-years-before-diagnosis-in-landmark-validation-study/)
+</small>
+
+
+
 ---
 
 ### AI Models in Biology 
@@ -141,21 +147,26 @@ __Ellison Medical Institute__
 
 ]
 
+<small>
+Image credits:
+[1](https://en.wikipedia.org/wiki/File:Protein_folding_figure.png)
+[2](https://www.nature.com/articles/s41586-026-10176-5)
+</small>
+
 ---
 
 ### Drug Discovery
 
-__TODO__: update
 
-<img src="pix/headline_drugs.png" width="90%"/>
+.center[
+<img src="pix/drug_design.webp" width="70%"/>
+]
 
-https://www.technologyreview.com/2023/02/15/1067904/ai-automation-drug-development/
+<small>
+[Image credit](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2026.1870527/full)
+</small>
 
 
-- drug discovery
-    - alpha fold
-    - evo genetic models
-    - generative AI
 
 
 ---
