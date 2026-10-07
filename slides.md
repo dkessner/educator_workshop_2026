@@ -91,25 +91,20 @@ __Ellison Medical Institute__
 
 ---
 
-
-### Weather Prediction
-
-__TODO__: update
-
-- prediction improvments of up to 20%
-- ~1000x decrease in energy use
-
-<img src="pix/headline_aifs.png" width="95%"/>
-
-https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become-operational
-
----
-
 ### Mathematics
 
-- Millenium problems
-- Navier-Stokes
-- Lean formalization
+
+<img src="pix/math1.png" width="70%"/>
+<br/>
+
+<img src="pix/math2.png" width="70%"/>
+<br/>
+
+<img src="pix/math3.png" width="70%"/>
+<br/>
+
+<img src="pix/math4.png" width="70%"/>
+<br/>
 
 
 ---
@@ -117,48 +112,31 @@ https://www.ecmwf.int/en/about/media-centre/news/2025/ecmwfs-ai-forecasts-become
 
 ### Digital Pathology
 
-__TODO__: update
 
-computer vision -> digital pathology
+<br/>
+<img src="pix/cancer1.png" width="55%"/>
+<br/>
+<br/>
 
-<img src="pix/screenshot_opencv.png" width="35%"/>
-<img src="pix/headline_cancer.png" width="55%"/>
-
-https://news.harvard.edu/gazette/story/2024/09/new-ai-tool-can-diagnose-cancer-guide-treatment-predict-patient-survival/
-
-
----
-
-### Personalized Medicine
-
-__TODO__: update
-
-<img src="pix/headline_crispr.png" width="90%"/>
-
-https://www.science.org/content/article/gene-editing-therapy-made-just-6-months-helps-baby-life-threatening-disease
-
-<img src="pix/headline_abiraterone.png" width="95%"/>
-
-https://www.theguardian.com/society/2025/may/30/new-ai-test-can-predict-which-men-will-benefit-from-prostate-cancer-drug
-
+<img src="pix/cancer2.png" width="55%"/>
+<br/>
 
 
 ---
 
-### AlphaFold
-
-__TODO__: update
-
-Protein structure prediction
+### AI Models in Biology 
 
 .split-50[
 
 .column[
-<img src="pix/Protein_folding_figure.png" width="100%"/>
+<img src="pix/bio2.png" width="70%"/>
+<img src="pix/Protein_folding_figure.png" width="80%"/>
 ]
 
 .column[
-<img src="pix/screenshot_alphafold.png" width="100%"/>
+<img src="pix/bio1.png" width="90%"/>
+<img src="pix/bio_fig1a.png" width="60%"/>
+<img src="pix/bio_fig1b.png" width="70%"/>
 ]
 
 ]
@@ -561,6 +539,8 @@ Image: Economist Sep 19, 2024
 ---
 
 ### Agents
+
+__TODO__: update
 
 - models, agents, harnesses
 
