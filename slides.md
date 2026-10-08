@@ -173,9 +173,26 @@ Image credits:
 
 ### Software development
 
-__TODO__: update
+1. __Autocomplete__
+*Copilot completions, Cursor tab, JetBrains AI*
 
-- agents / harnesses
+2. __Code harnesses__
+*Claude Code, Codex CLI, Aider, Cursor agent mode*
+
+3. __Chatbots in software services__
+*GitHub Copilot Chat, Copilot Spaces, Slack/Jira assistants*
+
+4. __Automated code review__
+*Copilot code review, CodeRabbit, Graphite, Greptile*
+
+5. __Autonomous / async agents__
+*GitHub Copilot coding agent, Devin, Jules*
+
+6. __Pipeline & operations__
+*Dependabot/CodeQL autofix, Actions log analysis, AIOps tooling*
+
+7. __Documentation generation__
+
 
 ---
 
@@ -452,109 +469,43 @@ _"Time __flies__ like an arrow, fruit __flies__ like a banana"_
 
 ---
 
-### Transformer architecture
+### Large Language Models (LLMs)
 
-<br/>
-
-2017 (Google) "Attention is All you Need" introduces the transformer
-architecture
-
-<br/>
-<br/>
-
-
-- model trained for text translation
+__Key advances__
 
 - contextualization of embeddings
 
-- parallelization / scaling to handle a large amount of training data
-
-- foundation model pre-training + downstream fine-tuning
+- unsupervised pretraining on large bodies of text (parallelizable, scalable)
 
 
-
----
-
-### Transformers history
-
-
-__TODO__: update
+__History__
 
 - 2017 (Google) "Attention is All you Need": introduces the transformer
   architecture
-
-- 2018 (Google) Bidirectional encoder representations from transformers
-  (BERT): large language model using transformers
 
 - 2018 (OpenAI) "Improving Language Understanding by Generative
   Pre-Training": GPT-1 released, using transformer architecture,
   unsupervised pre-training, fine-tuning for downstream tasks
 
-- 2019 (OpenAI) GPT-2 released (closed, no source code)
-
-- 2020 (OpenAI) GPT-3 released
-
 - 2022 (OpenAI) ChatGPT released
 
-- 2023 (OpenAI) GPT-4 released
-
-- 2022-2024 Google Gemini, Anthropic Claude, Meta Llama, BLOOM, lots of others
+- 2022-present Google Gemini, Anthropic Claude, Meta Llama, plus many others
 
 
 ---
 
-### Large Language Models (LLMs)
+### Model, Agent, Harness
 
-__TODO__: update
+- **Model** — the raw LLM
 
-- contextualization of embeddings
-- pre-trained on large body of text
-- trained to predict hidden (BERT) or next (GPT) word
+- **Agent** — the program/module that controls all communication with the model
+    - maintains context and a run loop for repeated calls to the model
+    - handles model output
+    - interacts with the user system via _tools_, which allow the agent to
+      create files, or search the internet
 
-<br/>
-
-GPT: Generative Pre-trained Transformer
-
-.split-50[
-
-.column[
-
-Parameter counts
-
-- GPT-1: 117 million
-- BERT: 340 million
-- GPT-2: 1.5 billion
-- GPT-3: 175 billion
-- BLOOM: 175 billion
-- Llama 3.1: 405 billion
-- Claude: 52 billion
-- Claude 2-3: ?
-- Gemini: ?
-- GPT-4: ?
-
-[<a href="https://en.wikipedia.org/wiki/Large_language_model#List_of_Large_Language_Models" target="_blank">Wikipedia List of LLMs</a>]
-
-]
-
-.column[
-<img src="pix/ai_cost.png" width="80%"/>
-
-<small>
-Image: Economist Sep 19, 2024
-</small>
-]
-
-]
-
-
----
-
-### Agents
-
-__TODO__: update
-
-- models, agents, harnesses
-
+- **Harness** — the program that manages the agents, for user-defined
+    tasks, such as software development
 
 
 ---
