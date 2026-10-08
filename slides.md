@@ -518,24 +518,22 @@ __History__
 
 ---
 
-### Math & Science Curriculum
+### Math Curriculum
 
-<br/>
 
-- Linear regression
+- __Linear regression__
+    - model, parameters
+    - training the model using data
 
-<br/>
-
-- Linear algebra
+- __Linear algebra__
     - vectors
         - dot product
         - projection / cosine similarity
     - matrix multiplication
     - linear transformations
 
-<br/>
 
-- Calculus 
+- __Calculus__
     - derivatives
     - minimization / maximization of functions
         - Newton's method
@@ -546,24 +544,33 @@ __History__
 
 ---
 
-### Science / Computer Science Curriculum
+### Science Curriculum
+
+- pencil and paper lessons / activities / quizzes for work on
+  conceptual understanding
+
+- hands on activities to connect to the physical world (chemical reactions,
+  physics experiments)
+
+- instrument use
+
+- data collection, analysis and visualization
+
+- validation of results
 
 
-__TODO__: update
+---
 
+### Computer Science Curriculum
 
+- pencil and paper lessons / activities / quizzes, especially for work on
+  conceptual understanding
 
-testing and validation
+- code validation, unit testing
 
+- debugging
 
-CS
-
-- unit tests
-
-
-science
-
-- validation
+- design / architecture of software systems
 
 
 ---
