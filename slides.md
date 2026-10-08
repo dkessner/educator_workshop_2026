@@ -196,16 +196,6 @@ Image credits:
 
 ---
 
-
-### Science
-
-__TODO__: update
-
-- AI-directed experiments
-
-
----
-
 ### 1. Scientific Applications
 
 ## 2. Background / Theory
